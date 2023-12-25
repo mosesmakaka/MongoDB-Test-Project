@@ -34,6 +34,7 @@ Fullstack web app (MongoDB, Express, NodeJS) providing a persistent platform for
 ## Getting Started
 
 > This app contains API secrets and passwords that have been hidden deliberately, so the app cannot be run with its features on your local machine. However, feel free to clone this repository if necessary.
+> Also note that the MongoDB Atlas connection string has not been hidden for the sake of project authenticity. Please make sure to edit the MongoDB Atlas connection string in the ./.env file and put your own otherwise you risk losing functionality. The Cluster only contains 500MB as it is a test cluster.
 
 
 ### Install dependencies
@@ -42,11 +43,6 @@ Fullstack web app (MongoDB, Express, NodeJS) providing a persistent platform for
 npm install
 ```
 
-or
-
-```sh
-yarn install
-```
 
 ## Built with
 
