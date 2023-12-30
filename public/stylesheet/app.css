@@ -122,7 +122,7 @@ form.search button {
 }
 
 form.search button:hover {
-  background: #f35636;
+  background: #000000;
 }
 
 form.search::after {
