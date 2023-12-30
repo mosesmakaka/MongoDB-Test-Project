@@ -72,11 +72,11 @@ body{
   animation-delay: 10s; 
 }
 .slideshow li:nth-child(3) { 
-  background-image: url(http://i.imgur.com/emvhOnb.jpg);
+  background-image: url(https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2022/08/01/125721_1357230.jpeg.1500x1000_q95_crop-smart_upscale.jpg);
   animation-delay: 20s; 
 }
 .slideshow li:nth-child(4) { 
-  background-image: url(http://i.imgur.com/K3mPv14.jpg);
+  background-image: url(https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2022/08/01/130456_1357232.jpeg.1000x1500_q95_crop-smart_upscale.jpg);
   animation-delay: 30s; 
 }
 .slideshow li:nth-child(5) { 

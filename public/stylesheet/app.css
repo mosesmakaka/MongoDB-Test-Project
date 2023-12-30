@@ -181,13 +181,13 @@ form.search button {
 
 .anchor-link{
     text-decoration:none;
-    color:#e32636;
+    color:#000000;
     outline:none;
 }
 
 .anchor-link:hover{
     text-decoration:none;
-    color:#B22222;
+    color:#000000;
 }
 
 
@@ -205,7 +205,7 @@ form.search button {
     position: relative;
     width: 1em;
     font-size: 2rem;
-    color: #e32636;
+    color: #000000;
     cursor: pointer
 }
 
