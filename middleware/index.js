@@ -17,7 +17,7 @@ middlewareObject.checkCommentOwnership=function(req,res,next)
                 return next();
             }
             else{
-                 req.flash("error","You are not authorized to do that");
+                 req.flash("error","Wewe kijana, You are not authorized to do that");
                   res.redirect("back")
             }
            
