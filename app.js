@@ -26,7 +26,7 @@ app.use(flash());
 
 // PASSPORT CONFIGURATION
 app.use(require("express-session")({
-    secret: "Kuldeep is the best",
+    secret: "Moses hataki mchezo",
     resave: false,
     saveUninitialized: false
 }));
