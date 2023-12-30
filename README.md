@@ -1,4 +1,4 @@
-# MongoDB Test Project
+# Vamp Camp
 Fullstack web app (MongoDB, Express, NodeJS) providing a persistent platform for browsing, creating and managing campgrounds and comments.
 
 ## Features
