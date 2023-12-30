@@ -25,14 +25,14 @@ body{
   text-decoration:none;
   text-transform: uppercase;
   letter-spacing:2px;
-  border: 2px solid #e32636;
+  border: 2px solid #000000;
   font-weight:bold;
 }
 
 #landing-header a:hover {
   text-decoration:none;
-  border: 1px solid #e32636;
-  background:#e32636;
+  border: 1px solid #e2e1e1;
+  background:#000000;
 }
 
 
@@ -64,11 +64,11 @@ body{
 
 
 .slideshow li:nth-child(1) { 
-  background-image: url(https://i.pinimg.com/originals/d9/cd/18/d9cd18724134f5dc521ea340486d4a62.jpg); 
+  background-image: url(https://preview.redd.it/twp29h8azw681.jpg?width=640&crop=smart&auto=webp&s=2e2e846930f926de7fd3453f9f4be705cc7a2bdf); 
   ;
 }
 .slideshow li:nth-child(2) { 
-  background-image: url("https://wallpapercave.com/wp/wp1857439.jpg") ;
+  background-image: url("https://preview.redd.it/9fs7169azw681.jpg?width=640&crop=smart&auto=webp&s=cae49ed2568a766aa95660e14885213b8349fdd8") ;
   animation-delay: 10s; 
 }
 .slideshow li:nth-child(3) { 

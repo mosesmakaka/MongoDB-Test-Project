@@ -1,6 +1,6 @@
 
 body{
-    background:#FFEDF2 !important;
+    background:#000000 !important;
 }
 
 #logo{
@@ -64,7 +64,7 @@ body{
     border-radius:0 !important;
     border:none;
     position: relative; 
-    background-image:url("https://images.wallpaperscraft.com/image/bonfire_people_dark_149072_3840x2400.jpg");
+    background-image:url("https://redefined.s3.us-east-2.amazonaws.com/wp-content/uploads/2021/12/08014323/PlayboiCarti_CreditVictoriaWasylakJPG.jpg");
     background-repeat: no-repeat;
     background-size: cover;
   background-attachment: fixed;
@@ -110,14 +110,14 @@ form.search button {
   float: left;
   width: 20%;
   padding: 4.5px;
-  background: #e32636;
+  background: #000000;
   color: white;
   border: none;
   border-top-right-radius:20px;
   border-bottom-right-radius:20px;
   outline:none;
   font-size: 17px;
-  border: 1px solid #e32636;
+  border: 1px solid #000000;
   cursor: pointer;
 }
 
@@ -232,7 +232,7 @@ form.search button {
 .footer{
     padding: 27px 20px 10px 20px ;
     margin-top:40px;
-    background:#e32636;
+    background:#000000;
     font-size: 12pt;
     color: #3D3D3D;
     letter-spacing:.71px;
